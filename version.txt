@@ -1,1 +1,1 @@
-1.0|https://github.com/DimiJasonChris/todo-updates/releases
+1.0|https://github.com/DimiJasonChris/todo-updates/releases/download/v1.0/J-To.Do.v1.0.apk
